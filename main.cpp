@@ -6,8 +6,8 @@ int main()
     std::cout << "Hello, World!" << std::endl;
 
     // Perform a simple arithmetic operation
-    int a = 5;
-    int b = 3;
+    int a = 7;
+    int b = 8;
     int sum = a + b;
 
     // Display the result
